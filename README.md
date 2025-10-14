@@ -10,11 +10,10 @@
 
 
 ---
-## 🧠 About Me
+##  About Me
 
  **Passionate and curious developer** who loves crafting full-stack web applications and solving complex coding challenges.  
- Currently exploring the depths of **JavaScript**, **React**, and **MongoDB**, while strengthening my problem-solving foundation with **C++**, **Python**, and **Java**.  
- Always eager to **learn, build, and collaborate** to create impactful and innovative digital solutions.
+ Currently exploring the depths of **JavaScript**, **React**, and **MongoDB**, while strengthening my problem-solving foundation with **C++**, **Python**, and **Java**.Always eager to **learn, build, and collaborate** to create impactful and innovative digital solutions.
 
 
 ---
