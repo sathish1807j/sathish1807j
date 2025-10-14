@@ -1,12 +1,12 @@
-███████╗░█████╗░████████╗██╗░██╗██╗███████╗██╗░░██╗
-██╔════╝██╔══██╗╚══██╔══╝██║░██║██║██╔════╝╚██╗██╔╝
-█████╗░░██║░░██║░░░██║░░░██████║██║█████╗░░░╚███╔╝░
-██╔══╝░░██║░░██║░░░██║░░░██╔═██║██║██╔══╝░░░██╔██╗░
-██║░░░░░╚█████╔╝░░░██║░░░██║░╚███║██║███████╗██╔╝╚██╗
-╚═╝░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░╚══╝╚═╝╚══════╝╚═╝░░╚═╝<h3 align="center">👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Projects+That+Matter;Writing+Code+That+Lasts;Exploring+Tech+Endlessly&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=SATHISH⚡&fontSize=50&fontColor=000000&fontAlignY=35"/>
 </p>
+
+<h3 align="center">💻 Full Stack Developer | MERN Learner | Problem Solver</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Coding+is+my+superpower.;Building+creative+tech+solutions.&center=true&width=500&height=45">
+</p>
+
 
 
 
