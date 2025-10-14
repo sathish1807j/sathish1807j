@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+There,+I'm+Sathish;Full+Stack+Developer;Competitive+Programmer;Tech+Hacker+%F0%9F%92%A1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+There,+I'm+Lourdu+Sathish;Full+Stack+Developer;Competitive+Programmer;Tech+Hacker+%F0%9F%92%A1" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1F2937&height=2"/>
 </p>
+
 
 
 <p align="center">
