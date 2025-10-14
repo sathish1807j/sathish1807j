@@ -1,6 +1,13 @@
+███████╗░█████╗░████████╗██╗░██╗██╗███████╗██╗░░██╗
+██╔════╝██╔══██╗╚══██╔══╝██║░██║██║██╔════╝╚██╗██╔╝
+█████╗░░██║░░██║░░░██║░░░██████║██║█████╗░░░╚███╔╝░
+██╔══╝░░██║░░██║░░░██║░░░██╔═██║██║██╔══╝░░░██╔██╗░
+██║░░░░░╚█████╔╝░░░██║░░░██║░╚███║██║███████╗██╔╝╚██╗
+╚═╝░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░╚══╝╚═╝╚══════╝╚═╝░░╚═╝<h3 align="center">👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shadow&height=120&color=0:111111,100:333333&fontColor=00FFFF&text=Lourdu+Sathish+%7C+Tech+Hacker" alt="Shadow Banner">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Projects+That+Matter;Writing+Code+That+Lasts;Exploring+Tech+Endlessly&center=true&width=500&height=45">
 </p>
+
 
 
 
