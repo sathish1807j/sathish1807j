@@ -1,11 +1,6 @@
 
 <p align="center">
-  <svg viewBox="0 0 600 100">
-    <text x="50%" y="60%" text-anchor="middle" font-size="45" font-family="Orbitron" font-weight="bold" fill="#800080">
-      👾 LOURDU SATHISH J 👾
-      <animate attributeName="fill" values="#800080;#000000;#800080" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FFAA" />
 </p>
 <h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
 
