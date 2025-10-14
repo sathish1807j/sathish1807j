@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lourdu%20Sathish&fontAlign=50&fontAlignY=40&color=gradient&fontColor=00FF00&desc=CS+Student+%7C+Problem+Solver&descAlignY=60&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:FF0080,100:FF8C00&fontColor=ffffff&text=Lourdu+Sathish+%7C+Web+Developer" alt="Rounded Banner">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FF00&center=true&vCenter=true&width=600&lines=💻+Mastering+DSA;🛠+Building+Projects;🚀+Coding+Adventure" alt="typing"/>
-</p>
 
 
 
