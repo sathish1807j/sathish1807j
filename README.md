@@ -1,5 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2a0845,6441a5,ff006e&height=100&section=header&text=🔥 MERN Stack Explorer 🔥&fontSize=40&fontAlignY=45&animation=colorShift&fontColor=ffffff" />
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
 
+.banner {
+  width: 100%;
+  height: 200px;
+  background-image: linear-gradient(to right, #00c6ff, #0072ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.banner h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.banner h3 {
+  font-size: 1.5em;
+  font-weight: 300;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+<div class="banner">
+  <h1>Lourdu Sathish J</h1>
+  <h3>Full Stack Developer | Competitive Programmer</h3>
+</div>
+</body>
+</html>
 
 
 <p align="center">
