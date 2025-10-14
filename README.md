@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=SATHISH⚡&fontSize=50&fontColor=000000&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=👾%20SATHISH%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | MERN Learner | Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Coding+is+my+superpower.;Building+creative+tech+solutions.&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+Cyber+World...;System+Online...;Deploying+New+Ideas+💡;Executing+Innovation+Protocol+🚀">
 </p>
 
 
