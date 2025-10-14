@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lourdu%20Sathish%20J&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=👾%20SATHISH%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
 </p>
 
+<h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
+
+<
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Building+the+Future+One+Line+at+a+Time;☁️+Dream+Big,+Code+Bigger;🚀+Welcome+to+My+Digital+Universe">
