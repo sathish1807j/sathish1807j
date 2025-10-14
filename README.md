@@ -1,10 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+There,+I'm+Sathish;Full+Stack+Developer;Competitive+Programmer;Tech+Hacker+%F0%9F%92%A1" alt="Typing SVG">
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=👾%20SATHISH%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=2"/>
 </p>
 
-<h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
-
-<
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Building+the+Future+One+Line+at+a+Time;☁️+Dream+Big,+Code+Bigger;🚀+Welcome+to+My+Digital+Universe">
