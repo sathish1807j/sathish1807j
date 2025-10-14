@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=header&text=👾 LOURDU SATHISH J 👾&fontSize=42&fontAlignY=40&animation=blinking&fontColor=ff00aa" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2a0845,6441a5,ff006e&height=100&section=header&text=🔥 MERN Stack Explorer 🔥&fontSize=40&fontAlignY=45&animation=colorShift&fontColor=ffffff" />
 
 
 
