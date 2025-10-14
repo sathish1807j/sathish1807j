@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:FF0080,100:FF8C00&fontColor=ffffff&text=Lourdu+Sathish+%7C+Web+Developer" alt="Rounded Banner">
+  <img src="https://capsule-render.vercel.app/api?type=blob&height=140&color=0:8A2387,50:E94057,100:F27121&fontColor=ffffff&text=Lourdu+Sathish+%7C+Programmer+%26+Hacker&animation=twinkling" alt="Blob Banner">
 </p>
 
 
