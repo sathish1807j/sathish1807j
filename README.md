@@ -11,12 +11,11 @@
 
 ---
 
-### 🧠 About Me
+💡 **Passionate and curious developer** who loves crafting full-stack web applications and solving complex coding challenges.  
 
-💻 I'm a **Computer Science and Engineering student** passionate about software development, problem-solving, and innovation.  
-🎯 Solved **200+ DSA problems**, participated in **90+ contests** on CodeChef, and maintain a **50-day streak**.  
-🚀 Currently learning the **MERN Stack** and exploring **AI integrations**.  
-🌟 I love building real-world projects that make learning and collaboration easier.
+🚀 Currently exploring the depths of **JavaScript**, **React**, and **MongoDB**, while strengthening my problem-solving foundation with **C++**, **Python**, and **Java**.  
+
+🤝 Always eager to **learn, build, and collaborate** to create impactful and innovative digital solutions.
 
 ---
 
