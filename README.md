@@ -1,9 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sathish⚡&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=60&animation=twinkling"/>
-</p>
+<pre align="center">
+███████╗░█████╗░████████╗██╗░██╗██╗███████╗██╗░░██╗
+██╔════╝██╔══██╗╚══██╔══╝██║░██║██║██╔════╝╚██╗██╔╝
+█████╗░░██║░░██║░░░██║░░░██████║██║█████╗░░░╚███╔╝░
+██╔══╝░░██║░░██║░░░██║░░░██╔═██║██║██╔══╝░░░██╔██╗░
+██║░░░░░╚█████╔╝░░░██║░░░██║░╚███║██║███████╗██╔╝╚██╗
+╚═╝░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░╚══╝╚═╝╚══════╝╚═╝░░╚═╝
+</pre>
+
+<h3 align="center">👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Building+the+Future+One+Line+at+a+Time;☁️+Dream+Big,+Code+Bigger;🚀+Welcome+to+My+Digital+Universe">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=25&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=Building+Projects+That+Matter;Writing+Code+That+Lasts;Exploring+Tech+Endlessly" alt="Typing SVG">
 </p>
 
 
