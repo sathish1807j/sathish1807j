@@ -1,21 +1,4 @@
-<pre align="center">
-███████╗░█████╗░████████╗██╗░██╗██╗███████╗██╗░░██╗
-██╔════╝██╔══██╗╚══██╔══╝██║░██║██║██╔════╝╚██╗██╔╝
-█████╗░░██║░░██║░░░██║░░░██████║██║█████╗░░░╚███╔╝░
-██╔══╝░░██║░░██║░░░██║░░░██╔═██║██║██╔══╝░░░██╔██╗░
-██║░░░░░╚█████╔╝░░░██║░░░██║░╚███║██║███████╗██╔╝╚██╗
-╚═╝░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░╚══╝╚═╝╚══════╝╚═╝░░╚═╝
-</pre>
-
-<h3 align="center">👨‍💻 Full Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=25&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=Building+Projects+That+Matter;Writing+Code+That+Lasts;Exploring+Tech+Endlessly" alt="Typing SVG">
-</p>
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=header&text=👾 LOURDU SATHISH J 👾&fontSize=42&fontAlignY=40&animation=blinking&fontColor=ff00aa" />
 
 
 
