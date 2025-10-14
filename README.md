@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,3,4,1,5&height=90&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFD700" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a022f,3c0977,6a11cb&height=90&section=header&text=👾 LOURDU SATHISH J 👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=d0a3ff" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
