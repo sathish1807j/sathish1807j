@@ -19,24 +19,13 @@
 ---
 
 ### 🧩 Technical Stack
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
-<p align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" /><br>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" /><br>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" /><br>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
 
 #### 🧠 Competitive Programming
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
