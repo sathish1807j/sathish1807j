@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=👾%20SATHISH%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sathish⚡&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=60&animation=twinkling"/>
 </p>
-
-<h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+Cyber+World...;System+Online...;Deploying+New+Ideas+💡;Executing+Innovation+Protocol+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+Building+the+Future+One+Line+at+a+Time;☁️+Dream+Big,+Code+Bigger;🚀+Welcome+to+My+Digital+Universe">
 </p>
+
 
 
 
