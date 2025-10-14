@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&height=140&color=0:8A2387,50:E94057,100:F27121&fontColor=ffffff&text=Lourdu+Sathish+%7C+Programmer+%26+Hacker&animation=twinkling" alt="Blob Banner">
+  <img src="https://capsule-render.vercel.app/api?type=floating&height=130&color=0:800080,100:DA70D6&fontColor=ffffff&text=Lourdu+Sathish+%7C+Full+Stack+Developer&animation=fadeIn" alt="Floating Banner">
 </p>
-
 
 
 
