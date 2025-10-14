@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">Full Stack Developer | CSE Student | Competitive Programmer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&section=header&text=👾%20SATHISH%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FF00" />
+</p>
+
+<h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;Tech+Enthusiast;MERN+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+Cyber+World...;System+Online...;Deploying+New+Ideas+💡;Executing+Innovation+Protocol+🚀">
 </p>
+
 
 ---
 
