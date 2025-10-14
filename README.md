@@ -1,9 +1,7 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=00FFAA" />
-  <h3 align="center">💻 Full Stack Developer | Competitive Programmer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=130&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=00FFAA&stroke=000000&strokeWidth=4&desc=💻%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=70&descSize=20&descColor=FFFFFF" />
 </p>
-
 
 
 
