@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=LOURDU SATHISH J&fontSize=50&fontColor=000000&fontAlignY=35"/>
-  <h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sathish⚡&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=60&animation=twinkling"/>
 </p>
 
 <p align="center">
