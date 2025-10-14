@@ -1,12 +1,9 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,7,6,9&height=90&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=9370DB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7,2,5,8,4&height=90&section=header&text=👾%20LOURDU%20SATHISH%20J%20👾&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FF69B4" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | Competitive Programmer | MERN Stack Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Welcome+to+my+Cyber+World...;System+Online...;Deploying+New+Ideas+💡;Executing+Innovation+Protocol+🚀">
-</p>
 
 
 <p align="center">
