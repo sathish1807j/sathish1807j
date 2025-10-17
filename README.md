@@ -69,25 +69,25 @@
 
 ---
 
-### 🧩 Projects
-🧠 **Skill Swap App** — A LinkedIn-like platform for users to share skills, post answers, and engage with others.  
-🔗 Tech Used: React, Node.js, MongoDB, Express, Firebase  
-🎯 Features: Login, comment, like, search, and user photo recognition system  
+## 💼 Featured Projects
 
-💡 **Portfolio Website** — A personal portfolio built using React and TailwindCSS to showcase my projects and skills.  
-🚀 Features: Dark theme, smooth animations, and modern responsive design.
+### 🌐 Personal Portfolio Website – Responsive Web Application
+**Tech Stack:** HTML, CSS, JavaScript  
+**Features:** Clean UI/UX design, smooth-scroll navigation, fully responsive layout  
+**Links:** [GitHub](https://github.com/) | [Live Demo](https://portfolio-amber-gamma-74.vercel.app/)  
+**Impact:** Showcases skills and projects with a professional and modern presentation  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sathish1807j&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish1807j&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -96,43 +96,50 @@
 
 ### 🧮 CodeChef
 - **Profile:** [kit27csbs32](https://www.codechef.com/users/kit27csbs32)  
-- **Current Rating:** 1584 (2★)  
-- **Problems Solved:** 420+  
-- **Contests Participated:** 100+  
-- **Global Rank:** 19,409 | **Country Rank:** 17,426  
-- **Badges:** Contest Contender 🟦 (Diamond), Problem Solver 🥈 (Silver), Daily Streak 🥉 (Bronze)
+- **Current Rating:** 1150 (4★)  
+- **Problems Solved:** 385+  
+- **Contests Participated:** 89+  
 
 ---
 
 ### 💻 LeetCode
 - **Profile:** [SathishJL](https://leetcode.com/u/user2441at/)  
-- **Problems Solved:** 300+  
-- **Contest Rating:** Active Participant  
-- **Focus Areas:** Data Structures, Algorithms, Dynamic Programming  
+- **Problems Solved:** 100+  
+- **Focus Areas:** Data Structures, Algorithms
 
 ---
 
 ### ⚔️ Codolio
 - **Profile:** [Sathish](https://codolio.com/profile/Sathish)  
-- **Problems Solved:** 700+  
-- **Contests Participated:** 100+  
+- **Problems Solved:** 580+  
+- **Contests Participated:** 90+  
 - **Platforms:** Multiple Competitive Coding Platforms  
 - **Achievement:** Consistent problem-solving across various platforms  
 
----
+## 📚 Currently Learning
 
-📈 _Passionate about improving problem-solving skills and mastering algorithms through regular participation in coding contests._
+- Advanced Data Structures and Algorithms  
+- Full-Stack Web Development (MERN Stack)  
+- Competitive Programming Techniques   
 
-
----
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/lourdu-sathish-bb8938292/?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_GMAIL_URL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/lourdu-sathish-bb8938292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kit27.csbs32@mail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/user2441at/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codolio.com/profile/Sathish">
+    <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
