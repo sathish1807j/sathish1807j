@@ -92,19 +92,44 @@
 
 ---
 
-### 🌟 Achievements
-🏅 Solved **200+ DSA problems**  
-🔥 50-day consistency streak on **CodeChef**  
-💻 Participated in **90+ programming contests**  
-🚀 Built and deployed multiple **full-stack web apps**
+## 🏆 Competitive Programming Achievements
+
+### 🧮 CodeChef
+- **Profile:** [kit27csbs32](https://www.codechef.com/users/kit27csbs32)  
+- **Current Rating:** 1584 (2★)  
+- **Problems Solved:** 420+  
+- **Contests Participated:** 100+  
+- **Global Rank:** 19,409 | **Country Rank:** 17,426  
+- **Badges:** Contest Contender 🟦 (Diamond), Problem Solver 🥈 (Silver), Daily Streak 🥉 (Bronze)
+
+---
+
+### 💻 LeetCode
+- **Profile:** [SathishJL](https://leetcode.com/u/user2441at/)  
+- **Problems Solved:** 300+  
+- **Contest Rating:** Active Participant  
+- **Focus Areas:** Data Structures, Algorithms, Dynamic Programming  
+
+---
+
+### ⚔️ Codolio
+- **Profile:** [Sathish](https://codolio.com/profile/Sathish)  
+- **Problems Solved:** 700+  
+- **Contests Participated:** 100+  
+- **Platforms:** Multiple Competitive Coding Platforms  
+- **Achievement:** Consistent problem-solving across various platforms  
+
+---
+
+📈 _Passionate about improving problem-solving skills and mastering algorithms through regular participation in coding contests._
+
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://www.linkedin.com/in/lourdu-sathish-bb8938292/?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="YOUR_GMAIL_URL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
