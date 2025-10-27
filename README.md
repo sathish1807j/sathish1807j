@@ -77,18 +77,6 @@
 **Links:** [GitHub](https://github.com/) | [Live Demo](https://portfolio-amber-gamma-74.vercel.app/)  
 **Impact:** Showcases skills and projects with a professional and modern presentation  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathish1807j&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish1807j&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -118,10 +106,21 @@
 
 ## 📚 Currently Learning
 
-- Advanced Data Structures and Algorithms  
+- Advanced Data Structures and Algorithms
+- React JS
 - Full-Stack Web Development (MERN Stack)  
 - Competitive Programming Techniques   
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathish1807j&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish1807j&layout=compact&theme=tokyonight" />
+</p>
 
 ### 📫 Connect with Me
 
