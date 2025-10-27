@@ -77,6 +77,11 @@
 **Links:** [GitHub](https://github.com/) | [Live Demo](https://portfolio-amber-gamma-74.vercel.app/)  
 **Impact:** Showcases skills and projects with a professional and modern presentation  
 
+## 👨‍💻 Currently Working On Project: Skill Chatter
+
+I'm currently developing **Skill Chatter**, a platform where users can **exchange skills and knowledge** with one another.  
+🚀 Built with **React,MongoDB**  
+💡 Goal: To create a **community-driven learning space** where people can **learn and teach skills** through collaboration.  
 
 ---
 
