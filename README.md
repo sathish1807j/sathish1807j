@@ -123,9 +123,6 @@ I'm currently developing **Skill Chatter**, a platform where users can **exchang
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish1807j&layout=compact&theme=tokyonight" />
-</p>
 
 ### 📫 Connect with Me
 
