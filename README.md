@@ -115,12 +115,20 @@ I'm currently developing **Skill Chatter**, a platform where users can **exchang
 - Full-Stack Web Development (MERN Stack)  
 - Competitive Programming Techniques   
 
-### 📊 GitHub Stats
+## ⚡ GitHub Analytics
+
+## ⚡ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathish1807j&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight" height="165"/>
+  <a href="https://github.com/sathish1807j">
+    <img src="https://github-readme-stats.vercel.app/api?username=sathish1807j&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" height="160"/>
+  </a>
+
+  <a href="https://github.com/sathish1807j">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1807j&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+  </a>
 </p>
+
 
 
 ### 📫 Connect with Me
