@@ -45,8 +45,7 @@
   <tr>
     <th align="left">⚙️ Backend & DB</th>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -90,22 +89,22 @@ I'm currently developing **Skill Chatter**, a platform where users can **exchang
 ### 🧮 CodeChef
 - **Profile:** [kit27csbs32](https://www.codechef.com/users/kit27csbs32)  
 - **Current Rating:** 1150 (4★)  
-- **Problems Solved:** 385+  
-- **Contests Participated:** 89+  
+- **Problems Solved:** 420+  
+- **Contests Participated:** 95+  
 
 ---
 
 ### 💻 LeetCode
 - **Profile:** [SathishJL](https://leetcode.com/u/user2441at/)  
-- **Problems Solved:** 100+  
+- **Problems Solved:** 150+  
 - **Focus Areas:** Data Structures, Algorithms
 
 ---
 
 ### ⚔️ Codolio
 - **Profile:** [Sathish](https://codolio.com/profile/Sathish)  
-- **Problems Solved:** 580+  
-- **Contests Participated:** 90+  
+- **Problems Solved:** 600+  
+- **Contests Participated:** 95+  
 - **Platforms:** Multiple Competitive Coding Platforms  
 - **Achievement:** Consistent problem-solving across various platforms  
 
